@@ -1,0 +1,15 @@
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.exe
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.deps.json
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.runtimeconfig.json
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.runtimeconfig.dev.json
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.dll
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\TradeCategory.pdb
+E:\Tests\TradeCategory.Test\TradeCategory.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.AssemblyInfoInputs.cache
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.AssemblyInfo.cs
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.csproj.CoreCompileInputs.cache
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.csproj.CopyComplete
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.dll
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.pdb
+E:\Tests\TradeCategory.Test\TradeCategory.Test\obj\Debug\netcoreapp3.1\TradeCategory.genruntimeconfig.cache

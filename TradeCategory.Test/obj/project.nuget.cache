@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwOm0d7a7I7Fd6JOTafN7gde4NrSMu8tv4L5nICA4Hd1EtnTXZC2esDzB7mlOMaLufZ3mEVYp5Bx9RkmJQ8yvw==",
+  "success": true,
+  "projectFilePath": "E:\\Tests\\TradeCategory.Test\\TradeCategory.Test\\TradeCategory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Otavio Menhart\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
